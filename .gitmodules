@@ -4,3 +4,6 @@
 [submodule "Ruby"]
 	path = Rich_Ruby
 	url = https://github.com/zhzhshen/Rich_Ruby.git
+[submodule "JS"]
+	path = Rich_JS
+	url = https://github.com/zhzhshen/Rich_JS.git
